@@ -2,6 +2,9 @@
 
 **I'am From Team** Aeryuma, Kira Kira Light, Aternal Dream, Lyramint Writter. Just Ordinary People :). **I have several skills in programming**, my skills are backend developers, frontend developers, database developers, and bot developers. I Can Also Write A Story For A Certain Story. Even though it's pretty bad :). I also usually make illustrations from stories that I make with anime style. I Also Made Some Character Designs. My Other Skill Is I Can 3D Model Using Prisma 3D
 
+My Community
+![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) Cyndiral Gakuen
+![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) Isekai Maid Cafe
 
 ## Youtube
 
