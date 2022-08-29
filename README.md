@@ -53,6 +53,11 @@ C#, C++, C, Typescript
 
 > In my Youtube Channel, I'm more focused on making tutorials to make something in programming. This Channel I Type More. and I don't say anything on my videos
 
+## Twitter
+
+----------------
+| <img src="https://mobile.twitter.com/NakazawaKanaka/photo"> |
+----------------
 
 ## Github
 
