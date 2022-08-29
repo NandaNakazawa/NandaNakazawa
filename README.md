@@ -24,18 +24,21 @@ var AboutMe = {
 ## Github
 
 ### Kanaka Nakazawa
-> On My Account, I Prefer To Use It To Make Packages For Me And My Team
 
 <img align="right" width="100" height="100" src="https://avatars.githubusercontent.com/KanakaNakazawa">
+
+> On My Account, I Prefer To Use It To Make Packages For Me And My Team
+
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=KanakaNakazawa&theme=dracula&count_private=true"></div>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanakaNakazawa&theme=tokyonight&hide=batchfile&langs_count=10">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=KanakaNakazawa&bg_color=30,000428,004e92&title_color=fff&text_color=fff">
 
 ### Nekiro Kankou
 
+<img align="right" width="100" height="100" src="https://avatars.githubusercontent.com/NekiroKankou">
+
 > For This Account I Use To Create Bots & Websites With My Team
 
-<img align="right" width="100" height="100" src="https://avatars.githubusercontent.com/NekiroKankou">
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=NekiroKankou&theme=dracula&count_private=true"></div>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekiroKankou&theme=tokyonight&hide=batchfile&langs_count=10">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=NekiroKankou&bg_color=30,000428,004e92&title_color=fff&text_color=fff">
