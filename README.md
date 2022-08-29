@@ -43,6 +43,8 @@ C#, C++, C, Typescript
 
 ### [Kanaka Nakazawa Sensei (Indonesia)](https://youtube.com/c/KanakaNakazawaSensei)
 
+<img align="right" width="100" height="100" src="https://yt3.ggpht.com/_feymCNPo1ts-KzNRoz6RI4ldM_wbo1SKeA1KT8zz0cppvbixHjmCixs6tkt1-WuIitboC7E=s900-c-k-c0x00ffffff-no-rj">
+
 > In This YouTube Channel I Share Information About Anime, And Manga. I am on this channel using Indonesian as the main language
 
 ### [Mihiyaku Development](https://youtube.com)
