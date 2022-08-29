@@ -41,7 +41,7 @@ C#, C++, C, Typescript
 
 ## Youtube
 
-### [Kanaka Nakazawa Sensei (Indonesia)](https://youtube.com)
+### [Kanaka Nakazawa Sensei (Indonesia)](https://youtube.com/c/KanakaNakazawaSensei)
 
 > In This YouTube Channel I Share Information About Anime, And Manga. I am on this channel using Indonesian as the main language
 
