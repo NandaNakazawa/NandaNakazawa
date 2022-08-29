@@ -55,9 +55,9 @@ C#, C++, C, Typescript
 
 ## Twitter
 
-|----------------|
-| <img src="https://pbs.twimg.com/profile_images/1547849259810459650/TK2jH3Rg_400x400.jpg"> |
-|----------------|
+----------------
+| <img src="https://pbs.twimg.com/profile_images/1547849259810459650/TK2jH3Rg_400x400.jpg"> | <img src="https://pbs.twimg.com/profile_images/1421850729422065664/17xSZzj7_400x400.jpg"> |
+|----------------|------------|
 
 ## Github
 
