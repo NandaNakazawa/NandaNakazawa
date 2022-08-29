@@ -14,7 +14,7 @@ var AboutMe = {
 
 ------------
 
-# What I Use
+# About Me
 
 ## Proggraming Language
 
@@ -25,6 +25,14 @@ var AboutMe = {
 
 **Other**
 - Java
+- Python
+- PHP
+
+**In Learning**
+- C#
+- C++
+- C
+- Typescript
 
 ------------
 
