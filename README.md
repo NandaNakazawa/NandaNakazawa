@@ -47,6 +47,8 @@ C#, C++, C, Typescript
 
 > In This YouTube Channel I Share Information About Anime, And Manga. I am on this channel using Indonesian as the main language
 
+<img align="right" width="100" height="100" src="https://yt3.ggpht.com/7uh508voLMOGzyvx3x5NG-fWiJzkttu1ZSXvyAzHW16ZN7f5yVfgT1XkDSnRXgQJDixpHfw5OQ=s100-c-k-c0x00ffffff-no-rj">
+
 ### [Mihiyaku Development](https://youtube.com)
 
 > In my Youtube Channel, I'm more focused on making tutorials to make something in programming. This Channel I Type More. and I don't say anything on my videos
