@@ -27,20 +27,13 @@ var AboutMe = {
 ## Proggraming Language
 
 **Main**
-- Javascript
-- Ruby
-- HTML & CSS
+Javascript, Ruby, HTML & CSS
 
 **Other**
-- Java
-- Python
-- PHP
+Java, Python, PHP
 
 **In Learning**
-- C#
-- C++
-- C
-- Typescript
+C#, C++, C, Typescript
 
 ------------
 
