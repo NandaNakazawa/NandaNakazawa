@@ -22,9 +22,9 @@ var AboutMe = {
 
 ------------
 
-# About Me
+## About Me
 
-## Proggraming Language
+### Proggraming Language
 
 **Main**
 Javascript, Ruby, HTML & CSS
@@ -37,31 +37,11 @@ C#, C++, C, Typescript
 
 ------------
 
-# Social Media
+## Social Media
 
-## Youtube
+### Github
 
-### [Kanaka Nakazawa Sensei (Indonesia)](https://youtube.com/c/KanakaNakazawaSensei)
-
-<img align="right" width="100" height="100" src="https://yt3.ggpht.com/_feymCNPo1ts-KzNRoz6RI4ldM_wbo1SKeA1KT8zz0cppvbixHjmCixs6tkt1-WuIitboC7E=s900-c-k-c0x00ffffff-no-rj">
-
-> In This YouTube Channel I Share Information About Anime, And Manga. I am on this channel using Indonesian as the main language
-
-<img align="right" width="100" height="100" src="https://yt3.ggpht.com/7uh508voLMOGzyvx3x5NG-fWiJzkttu1ZSXvyAzHW16ZN7f5yVfgT1XkDSnRXgQJDixpHfw5OQ=s900-c-k-c0x00ffffff-no-rj">
-
-### [Mihiyaku Development](https://youtube.com)
-
-> In my Youtube Channel, I'm more focused on making tutorials to make something in programming. This Channel I Type More. and I don't say anything on my videos
-
-## Twitter
-
-----------------
-| <img src="https://pbs.twimg.com/profile_images/1547849259810459650/TK2jH3Rg_400x400.jpg"> | <img src="https://pbs.twimg.com/profile_images/1421850729422065664/17xSZzj7_400x400.jpg"> |
-|----------------|------------|
-
-## Github
-
-### Nanda Nakazawa
+#### Nanda Nakazawa
 
 <img align="right" width="100" height="100" src="https://avatars.githubusercontent.com/NandaNakazawa">
 
@@ -71,7 +51,7 @@ C#, C++, C, Typescript
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandaNakazawa&theme=tokyonight&hide=batchfile&langs_count=10">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=NandaNakazawa&bg_color=30,000428,004e92&title_color=fff&text_color=fff">
 
-### Nekiro Kankou
+#### Nekiro Kankou
 
 <img align="right" width="100" height="100" src="https://avatars.githubusercontent.com/NekiroKankou">
 
@@ -81,7 +61,7 @@ C#, C++, C, Typescript
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekiroKankou&theme=tokyonight&hide=batchfile&langs_count=10">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=NekiroKankou&bg_color=30,000428,004e92&title_color=fff&text_color=fff">
 
-### Kanaka Nakazawa
+#### Kanaka Nakazawa
 
 <img align="right" width="100" height="100" src="https://avatars.githubusercontent.com/KanakaNakazawa">
 
@@ -90,6 +70,26 @@ C#, C++, C, Typescript
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=KanakaNakazawa&theme=dracula&count_private=true"></div>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanakaNakazawa&theme=tokyonight&hide=batchfile&langs_count=10">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=KanakaNakazawa&bg_color=30,000428,004e92&title_color=fff&text_color=fff">
+
+### Youtube
+
+#### [Kanaka Nakazawa Sensei (Indonesia)](https://youtube.com/c/KanakaNakazawaSensei)
+
+<img align="right" width="100" height="100" src="https://yt3.ggpht.com/_feymCNPo1ts-KzNRoz6RI4ldM_wbo1SKeA1KT8zz0cppvbixHjmCixs6tkt1-WuIitboC7E=s900-c-k-c0x00ffffff-no-rj">
+
+> In This YouTube Channel I Share Information About Anime, And Manga. I am on this channel using Indonesian as the main language
+
+<img align="right" width="100" height="100" src="https://yt3.ggpht.com/7uh508voLMOGzyvx3x5NG-fWiJzkttu1ZSXvyAzHW16ZN7f5yVfgT1XkDSnRXgQJDixpHfw5OQ=s900-c-k-c0x00ffffff-no-rj">
+
+#### [Mihiyaku Development](https://youtube.com)
+
+> In my Youtube Channel, I'm more focused on making tutorials to make something in programming. This Channel I Type More. and I don't say anything on my videos
+
+### Twitter
+
+----------------
+| <img src="https://pbs.twimg.com/profile_images/1547849259810459650/TK2jH3Rg_400x400.jpg"> | <img src="https://pbs.twimg.com/profile_images/1421850729422065664/17xSZzj7_400x400.jpg"> |
+|----------------|------------|
 
 ------------
 
